@@ -31,6 +31,7 @@ def main():
         ],
         keywords='setuptools command',
         author='momijiame',
+        url='https://github.com/momijiame/setuptools-depsutil',
         zip_safe=False,
         include_package_data=True,
         packages=find_packages(),
